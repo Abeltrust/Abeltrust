@@ -34,13 +34,16 @@ I'm Abel, a creative web developer passionate about building beautiful interface
 ## 🚀 Live Preview
 
 You can view the portfolio live here (after deploying to Vercel):  
-**[https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)**
+**[https://your-vercel-url.vercel.app](https://abeltrust.vercel.app)**
 
 ## 🛠 Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
+- Php
+- Solidity
+- Rust
 
 ## 📁 Folder Structure
 
