@@ -17,7 +17,7 @@ a {
 }
 
 header {
-  min-height: 100vh;
+  min-height: auto;
   background: linear-gradient(120deg, #0f172a, #1e293b);
   padding: 2rem;
 }
