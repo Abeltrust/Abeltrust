@@ -1,49 +1,81 @@
-## Hi there 👋
+##  Hi, I’m Abel Bitrus Duba (AbelTrust)
 
-<!--
-**Abeltrust/Abeltrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Science graduate** and an **entry-level Cybersecurity enthusiast** with a background in **software development, embedded systems, and community leadership**.  
+I enjoy understanding how systems are built — and more importantly, how they can be **secured**.
 
-Here are some ideas to get you started:
+My journey started with web and software development, and over time I intentionally transitioned into **cybersecurity (Blue Team)**, focusing on fundamentals, Linux security, authentication systems, phishing prevention, and critical infrastructure awareness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Abeltrust - Creative Portfolio
+---
 
-Welcome to my personal portfolio website! 🎨🚀  
-This project showcases my skills in **HTML**, **CSS**, and **JavaScript** through a vibrant, modern, and fully responsive design.
+##  Current Focus
 
-## 🧠 About Me
+- Cybersecurity fundamentals & defensive security  
+- Linux environments (Kali, Ubuntu, Red Hat)  
+- Web & API authentication and authorization  
+- Phishing prevention and security awareness  
+- Entry-level SOC and security operations concepts  
 
-I'm Abel, a creative web developer passionate about building beautiful interfaces and meaningful user experiences. I love blending code with design to tell stories that matter.
+---
 
-## 📂 Features
+##  Technical Skills
 
-- Smooth scroll navigation
-- Responsive layout for all screen sizes
-- Light/Dark mode toggle 🌗
-- Animated transitions and vibrant color palette
-- Creative project section with hover effects
+**Programming & Scripting**
+- Python, Java, JavaScript
+- Bash (Shell scripting)
+- C / Embedded C (Arduino)
 
-## 🚀 Live Preview
+**Systems & Platforms**
+- Linux (Kali, Ubuntu, Red Hat)
+- Windows
+- macOS
 
-You can view the portfolio live here (after deploying to Vercel):  
-**[https://your-vercel-url.vercel.app](https://abeltrust.vercel.app)**
+**Embedded & IoT**
+- Arduino
+- Raspberry Pi
 
-## 🛠 Tech Stack
+**Cybersecurity**
+- Authentication & Authorization
+- Web & JavaScript Security basics
+- Phishing Prevention
+- Critical Infrastructure Protection
+- Security fundamentals & threat awareness
 
-- HTML5
-- CSS3
-- JavaScript
-- Php
-- Solidity
-- Rust
+---
 
-## 📁 Folder Structure
+##  Leadership & Community
 
+- **President**, ICT Club — Gombe State University (2023–2024)  
+- **Software Director**, ICT Club — GSU (2021–2023)  
+- **Software Director**, Google Developer Student Clubs (GDSC) — GSU (2021–2022)  
+- Community Manager (Volunteer), **3MTT Nigeria**
+
+These roles strengthened my communication, coordination, and responsibility — skills I now apply to cybersecurity learning and teamwork.
+
+---
+
+##  What You’ll Find Here
+
+- Practice projects and experiments  
+- Security-focused learning repositories  
+- Web and scripting projects from my developer background  
+- Notes and exercises from cybersecurity training  
+
+This GitHub reflects **learning in public** and steady improvement.
+
+---
+
+## Portfolio
+
+🔗 **https://abeltrust.vercel.app**
+
+---
+
+##  Let’s Connect
+
+-  Email: **abelskid002@gmail.com**
+-  Open to **Cybersecurity Internships**, SOC trainee roles, and learning opportunities  
+-  Happy to collaborate on beginner-friendly security or automation projects  
+
+---
+
+> Curious by nature. Security-minded by choice. Always learning.
