@@ -30,4 +30,11 @@ document.querySelectorAll("nav ul a").forEach(link => {
     document.body.classList.toggle("light-theme");
     toggleButton.textContent = document.body.classList.contains("light-theme") ? "light mode" : "dark mode";
   });
-  
+  // Smooth scrolling
+document.querySelectorAll("nav a").forEach(link => {
+  link.addEventListener("click", e => {
+    e.preventDefault();
+    document.querySelector(link.getAttribute("href"))
+      .scrollIntoView({ behavior: "smooth" });
+  });
+});
