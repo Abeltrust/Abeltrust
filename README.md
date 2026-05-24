@@ -107,5 +107,3 @@ I’m now focusing more on building practical, hands-on system administration sk
 
 ---
 
-If you want next step, I can also:
-
