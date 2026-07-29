@@ -1,9 +1,3 @@
-Got it — that changes the positioning quite a bit. You’re no longer framing this as cybersecurity-first, but as **systems administration (Linux/Windows infra, automation, servers, and operations)** with a strong technical foundation.
-
-Here’s a revised README that fits that direction cleanly:
-
----
-
 ## 👋 Hi, I’m Abel Bitrus Duba (AbelTrust)
 
 I’m a **Computer Science graduate** and an **aspiring System Administrator** with experience in **software development, Linux environments, and embedded systems**.
